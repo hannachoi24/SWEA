@@ -1,4 +1,4 @@
-package 기본기.비트연산;
+package D1.비트연산;
 
 import java.util.Scanner;
 
@@ -59,6 +59,7 @@ public class SWEA_1240_단순2진암호코드 {
                     }
                 }
             }
+
             System.out.println("#" + TC + " " + isValid(code));
         }
     }
